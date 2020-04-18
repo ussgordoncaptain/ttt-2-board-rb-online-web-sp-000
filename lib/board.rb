@@ -1,5 +1,4 @@
 # Define the variable board below.
 board = []
-9.times do
-  
-end
+board_index=0 
+while(board_index<9)
